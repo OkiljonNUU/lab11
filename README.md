@@ -1,4 +1,4 @@
-# Hello World
+# Lab 11 project
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
